@@ -66,9 +66,7 @@ website:
       - section: "Programming"
         contents:
           - href: programming-toolkit.qmd
-            text: Access
-          - href: programming-basics.qmd
-            text: Troubleshooting
+            text: Toolkit
           - href: programming-troubleshooting.qmd
             text: Troubleshooting
       - section: "Project"
