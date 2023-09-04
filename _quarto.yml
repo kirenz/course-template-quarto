@@ -1,19 +1,96 @@
 project:
   type: website
 
+execute:
+  freeze: auto
+
 website:
-  title: "website-template-quarto"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  page-navigation: true
+  title: "Title"
+  description: "Homepage for xyz at HdM Stuttgart, WS 23/24."
+  site-url: "https://xyz.github.io/website/"
+  repo-url: https://github.com/xyz/website
+  repo-actions: [edit, issue]
+  open-graph: true
+  image: "/images/logo.png"
+  favicon: "/images/logo.png"
+  search:
+    type: overlay  
+  page-footer:
+    left: |
+      © [Jan Kirenz](https://www.kirenz.com/), 2023
+    center:
+      - text: "Schedule"
+        href: index.qmd
+      - text: "Syllabus"
+        href: course-syllabus.qmd  
+    right:
+      - icon: person-circle
+      - text: "Moodle"
+        href: https://moodle.hdm-stuttgart.de/login/index.php
+        aria-label: Moodle    
+#    background: "#325b74"    
+
+
+  sidebar:
+#    background: "#325b74"
+    logo: "images/logo.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/xyz
+        text: "GitHub organization"
+      - icon: code-square
+        href: https://cmgr.oit.duke.edu/containers
+        text: "RStudio Containers"
+      - icon: person-fill
+        text: "Moodle"
+        href: https://moodle.hdm-stuttgart.de/login/index.php
+
+    style: docked
+    search: true
+    collapse-level: 1
+    contents:
+      - section: "Course information"
+        contents:
+          - href: course-overview.qmd
+            text: Overview
+          - href: course-syllabus.qmd
+            text: Syllabus
+          - href: course-support.qmd
+            text: Support
+          - href: course-team.qmd
+            text: Teaching team
+          - href: index.qmd
+            text: Schedule
+          - href: course-links.qmd
+            text: Useful links
+          - href: course-faq.qmd
+            text: FAQ
+      - section: "Computing"
+        contents:
+          - href: computing-access.qmd
+            text: Access
+          - href: computing-troubleshooting.qmd
+            text: Troubleshooting
+          - href: computing-cheatsheets.qmd
+            text: Cheatsheets
+      - section: "Project"
+        contents:
+          - href: project-description.qmd
+            text: Description
+          - href: project-tips-resources.qmd
+            text: Tips + resources
+
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
     toc: true
-
-
-
+    theme:
+      light: [cosmo, style/course.scss]
+      dark: [cosmo, style/course.scss, style/dark.scss]
+    mainfont: "Atkinson Hyperlegible"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
