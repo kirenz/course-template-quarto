@@ -3,7 +3,7 @@ title: "Syllabus"
 ---
 
 ::: {.content-visible when-format="html"}
-[**Click here**](sta199-f22-1-syllabus.pdf) **to download a PDF copy of the syllabus.**
+[**Click here**](syllabus.pdf) **to download a PDF copy of the syllabus.**
 :::
 
 
@@ -11,24 +11,17 @@ title: "Syllabus"
 
 |           | Day       | Time              | Location |
 |-----------|-----------|-------------------|----------|
-| Lecture   | Monday    | 10:00 am - 11:30 am |  S205  |
+| Lecture   | xyz    | xx:xx  - xx:xx xx |  xx  |
 
 
 
 ## Learning objectives
 
-This course teaches you the fundamentals of data visualization and how to communicate effectively with data using Python. With visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
+This course teaches you the fundamentals of 
 
 By the end of the semester, you will be able to...
 
-- Understand the importance of context and audience
-- Determine the appropriate type of graph for your situation
-- Recognize and eliminate the clutter clouding your information
-- Direct your audience's attention to the most important parts of your data
-- Think like a designer and utilize concepts of design in data visualization
-- Leverage the power of storytelling to help your message resonate with your audience
-- use Python to analyze, prepare and visualize data 
-- create dashboards with Streamlit and reports in quarto
+
 
 
 ## Where to get help
@@ -37,35 +30,18 @@ By the end of the semester, you will be able to...
 - Outside of class, any general questions about course content or assignments should be posted on the Moodle course forum.
 - Emails should be reserved for questions not appropriate for the public forum. **If you email me, please include the name of our course in the subject line.** 
 
-Check out the [Support](course-support.md) page for more resources.
+Check out the [Support](course-support.qmd) page for more resources.
 
 ## Textbooks
 
 This course is mainly based on the following resources:
 
-*Available as E-Books in the [HdM library](https://www.hdm-stuttgart.de/bibliothek/angebot/eBooks):*
-
-- "Storytelling with Data: A Data Visualization Guide for Business Professionals" by Cole Nussbaumer Knaflic. 
-
-- "Storytelling mit Daten: Die Grundlagen der effektiven Kommunikation und Visualisierung mit Daten" von Cole Nussbaumer Knaflic.
-
-- "Storytelling with Data : Let's Practice!" by Cole Nussbaumer Knaflic. 
-
-*Available as free online books:*
-
-
-- [Introduction to Modern Statistics](https://openintro-ims.netlify.app/) by Mine Çetinkaya-Rundel and Johanna Hardin
-
-
-- [Python for Data Analysis, 3E](https://wesmckinney.com/book/) by Wes McKinney
 
 
 ## Lectures
 
 A lot of what you do in this course will involve writing code, and coding is a skill that is best learned by doing.
 Therefore, as much as possible, you will be working on a variety of tasks and activities throughout each lecture.
-
-Additionally, some lectures will feature application exercises that will be graded.
 
 You are expected to bring a laptop to each class so that you can take part in the in-class exercises.
 
@@ -81,7 +57,7 @@ You are expected to make use of the provided GitHub repository as the central co
 
 ## Assessment
 
-Assessment for the course is comprised of three components: 
+Assessment for the course is comprised of these components: 
 
 - [application exercises](application-exercises)
 - [homework assignments](hw) 
@@ -112,20 +88,16 @@ You may discuss homework assignments with other students; however, homework shou
 Homework must be completed in the provided Jupyter Notebooks in your course GitHub-repo and also submitted in Moodle.
 
 
-<!--
+
 (exams)=
 ### Exams
 
-There will be two, "take-home", open-note exams in Moodle.
+There will be two exams in Moodle.
 Through these exams you have the opportunity to demonstrate what you've learned in the course thus far.
 
 
-:::{Note}
-The exams will focus on the conceptual understanding of the content
-:::
-
 More details about the exams will be given during the semester.
--->
+
 
 (project)=
 ### Project

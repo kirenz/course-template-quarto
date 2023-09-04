@@ -8,15 +8,15 @@ title: "Project description"
 
 | Topic                 | Deadline      | GitHub folder & hints |
 | ---                   | ---           |  ---                  |
-|@sec-topic-ideas        | Fri, Oct 28   | references/           |
-|@sec-project-proposal   | Fri, 2 Dec   | references/           |
-|@sec-draft-analysis     | Fri, Dec 9    | notebooks/            |
-|@sec-peer-review-draft  | Fri, Dec 16   | use [](issue-template)|
-|@sec-report             | Fr, Feb 3     | reports/              |
-|@sec-slides-video       | Fri, Feb 10   | reports/              |
-|@sec-github-repo      | Fri, Feb 10   | "Repo in final state" |
-|@sec-comments          | We, Feb 15    | "Comment in Moodle"   |
-|@sec-team-eval          | Fri,Feb 17    | "Fill out survey"     |
+|[Topic ideas](@sec-topic-ideas)        | Fri, Oct 28   | references/           |
+|[Project proposal](@sec-project-proposal)   | Fri, 2 Dec   | references/           |
+|[Project draft](@sec-draft-analysis)     | Fri, Dec 9    | notebooks/            |
+|[Peer review](@sec-peer-review-draft)  | Fri, Dec 16   | use [](issue-template)|
+|[Report](@sec-report)             | Fr, Feb 3     | reports/              |
+|[Slides](@sec-slides-video)       | Fri, Feb 10   | reports/              |
+|[GitHub repo](@sec-github-repo)      | Fri, Feb 10   | "Repo in final state" |
+|[Comments](@sec-comments)          | We, Feb 15    | "Comment in Moodle"   |
+|[Survey](@sec-team-eval  )        | Fri,Feb 17    | "Fill out survey"     |
 
 
 ## Introduction
@@ -51,7 +51,7 @@ The primary deliverables for the final project are
 Identify 2 data sets you're interested in potentially using for the final project. The data sets should be suitable to be used alongside the topics described in the ["Big Idea Worksheet"](https://docs.google.com/document/d/1-GZvhdbhLYLB_Bo1arj1rgTqbJ5SUoU21vtgbYEhVqk/edit?usp=sharing). 
 
 
-If you're unsure where to find data, you can use the list of potential data sources in the [Tips + Resources](project-tips-resources.md) section as a starting point.
+If you're unsure where to find data, you can use the list of potential data sources in the [Tips + Resources](project-tips-resources.qmd) section as a starting point.
 It may also help to think of topics you're interested in investigating and find data sets on those topics.
 
 The purpose of submitting project ideas is to give you time to find data for the project and to make sure you have a data set that can help you be successful in the project.
