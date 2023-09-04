@@ -59,12 +59,12 @@ You are expected to make use of the provided GitHub repository as the central co
 
 Assessment for the course is comprised of these components: 
 
-- [application exercises](application-exercises)
-- [homework assignments](hw) 
-- [project](project)
+- [application exercises](@sec-application-exercises)
+- [homework assignments](@sec-hw) 
+- [project](@sec-project)
 
-(application-exercises)=
-### Application exercises
+
+### Application exercises {#sec-application-exercises}
 
 Parts of some lectures will be dedicated to working on "Application Exercises" (AE). These small exercises will give you an opportunity to practice apply the concepts and code introduced in the readings and lectures. 
 
@@ -78,8 +78,8 @@ The AEs are due within **six days** after the corresponding lecture. For example
 
 Because these AEs are for practice, they will be graded based on completion. Successful on-time completion of at least 80% of every AE will result in full credit in the final course grade. 
 
-(hw)=
-### Homework
+
+### Homework {#sec-hw}
 
 In homeworks (HW), you will apply what you've learned during lectures to complete data analysis and visualization‚ tasks using data not covered during lectures.
 
@@ -89,8 +89,7 @@ Homework must be completed in the provided Jupyter Notebooks in your course GitH
 
 
 
-(exams)=
-### Exams
+### Exams {#sec-exams}
 
 There will be two exams in Moodle.
 Through these exams you have the opportunity to demonstrate what you've learned in the course thus far.
@@ -99,8 +98,8 @@ Through these exams you have the opportunity to demonstrate what you've learned 
 More details about the exams will be given during the semester.
 
 
-(project)=
-### Project
+
+### Project {#sec-project}
 
 The purpose of the [project](project-description.qmd) is to apply what you've learned throughout the semester to analyze an interesting, data-driven research question. The project will be completed in **teams**.
 
