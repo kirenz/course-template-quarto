@@ -2,50 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://myplaceholder.github.io/website/course-overview.html</loc>
-    <lastmod>2023-09-04T13:13:53.186Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/about.html</loc>
-    <lastmod>2023-09-04T13:13:52.262Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/code/notebook.html</loc>
-    <lastmod>2023-09-04T13:13:51.370Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/course-links.html</loc>
-    <lastmod>2023-09-04T13:13:50.530Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/course-syllabus.html</loc>
-    <lastmod>2023-09-04T13:13:49.674Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/programming-toolkit.html</loc>
-    <lastmod>2023-09-04T13:13:47.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/project-tips-resources.html</loc>
-    <lastmod>2023-09-04T13:13:44.926Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/project-description.html</loc>
-    <lastmod>2023-09-04T13:13:48.918Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/course-faq.html</loc>
-    <lastmod>2023-09-04T13:13:50.078Z</lastmod>
-  </url>
-  <url>
-    <loc>https://myplaceholder.github.io/website/index.html</loc>
-    <lastmod>2023-09-04T13:13:50.950Z</lastmod>
+    <lastmod>2023-09-04T16:33:14.271Z</lastmod>
   </url>
   <url>
     <loc>https://myplaceholder.github.io/website/programming-troubleshooting.html</loc>
-    <lastmod>2023-09-04T13:13:51.834Z</lastmod>
+    <lastmod>2023-09-04T16:33:13.403Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/index.html</loc>
+    <lastmod>2023-09-04T16:33:12.575Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/course-links.html</loc>
+    <lastmod>2023-09-04T16:33:11.567Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/course-syllabus.html</loc>
+    <lastmod>2023-09-04T16:33:10.739Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/project-tips-resources.html</loc>
+    <lastmod>2023-09-04T16:33:06.307Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/project-description.html</loc>
+    <lastmod>2023-09-04T16:33:09.959Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/course-faq.html</loc>
+    <lastmod>2023-09-04T16:33:11.163Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/programming-requirements.html</loc>
+    <lastmod>2023-09-04T16:33:12.011Z</lastmod>
+  </url>
+  <url>
+    <loc>https://myplaceholder.github.io/website/code/notebook.html</loc>
+    <lastmod>2023-09-04T16:33:12.999Z</lastmod>
   </url>
   <url>
     <loc>https://myplaceholder.github.io/website/course-support.html</loc>
-    <lastmod>2023-09-04T13:13:52.746Z</lastmod>
+    <lastmod>2023-09-04T16:33:13.847Z</lastmod>
   </url>
 </urlset>
