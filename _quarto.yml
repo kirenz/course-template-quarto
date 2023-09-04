@@ -8,8 +8,8 @@ website:
   page-navigation: true
   title: "Title"
   description: "Homepage for xyz at HdM Stuttgart, WS 23/24."
-  site-url: "https://xyz.github.io/website/"
-  repo-url: https://github.com/xyz/website
+  site-url: "https://myplaceholder.github.io/website/"
+  repo-url: https://github.com/myplaceholder/website
   repo-actions: [edit, issue]
   open-graph: true
   image: "/images/logo.png"
@@ -39,11 +39,8 @@ website:
     align: center
     tools:
       - icon: github
-        href: https://github.com/xyz
+        href: https://github.com/myplaceholder
         text: "GitHub organization"
-      - icon: code-square
-        href: https://cmgr.oit.duke.edu/containers
-        text: "RStudio Containers"
       - icon: person-fill
         text: "Moodle"
         href: https://moodle.hdm-stuttgart.de/login/index.php
@@ -60,22 +57,20 @@ website:
             text: Syllabus
           - href: course-support.qmd
             text: Support
-          - href: course-team.qmd
-            text: Teaching team
           - href: index.qmd
             text: Schedule
           - href: course-links.qmd
             text: Useful links
           - href: course-faq.qmd
             text: FAQ
-      - section: "Computing"
+      - section: "Programming"
         contents:
-          - href: computing-access.qmd
+          - href: programming-toolkit.qmd
             text: Access
-          - href: computing-troubleshooting.qmd
+          - href: programming-basics.qmd
             text: Troubleshooting
-          - href: computing-cheatsheets.qmd
-            text: Cheatsheets
+          - href: programming-troubleshooting.qmd
+            text: Troubleshooting
       - section: "Project"
         contents:
           - href: project-description.qmd
