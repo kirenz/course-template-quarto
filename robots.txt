@@ -1,1 +1,1 @@
-Sitemap: https://xyz.github.io/website/sitemap.xml
+Sitemap: https://myplaceholder.github.io/website/sitemap.xml
