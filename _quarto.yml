@@ -65,8 +65,8 @@ website:
             text: FAQ
       - section: "Programming"
         contents:
-          - href: programming-toolkit.qmd
-            text: Toolkit
+          - href: programming-requirements.qmd
+            text: Requirements
           - href: programming-troubleshooting.qmd
             text: Troubleshooting
       - section: "Project"
