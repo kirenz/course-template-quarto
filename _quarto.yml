@@ -78,8 +78,8 @@ format:
   html:
     toc: true
     theme:
-      light: [cosmo, style/course.scss]
-      dark: [cosmo, style/course.scss, style/dark.scss]
+      light: [cosmo, style/theme.scss]
+      dark: [cosmo, style/theme.scss, style/dark.scss]
     mainfont: "Atkinson Hyperlegible"
     code-copy: true
     code-overflow: wrap
