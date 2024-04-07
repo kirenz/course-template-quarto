@@ -1,7 +1,15 @@
 ---
-title: "tbd"
-subtitle: "tbd"
+title: ""
+subtitle: "Course Overview"
 ---
 
-This page contains an outline of the topics, content, and assignments for the semester.
-Note that this schedule will be updated as the semester progresses and the timeline of topics and assignments might be updated throughout the semester.
+Welcome to our course! 👋  
+
+This page contains a weekly overview about the topics, slides and materials for the semester.
+
+- [Moodle-course]()
+
+
+:::{.callout-note}
+This overview will be updated as the semester progresses.
+:::
